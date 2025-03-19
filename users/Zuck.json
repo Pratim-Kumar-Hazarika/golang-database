@@ -1,0 +1,12 @@
+{
+	"Name": "Zuck",
+	"Age": 35,
+	"Contact": "229928292",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Delhi",
+		"State": "New Delhi",
+		"Country": "India",
+		"Pincode": 41010
+	}
+}
