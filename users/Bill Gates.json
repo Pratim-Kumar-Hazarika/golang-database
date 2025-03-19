@@ -1,0 +1,12 @@
+{
+	"Name": "Bill Gates",
+	"Age": 15,
+	"Contact": "233748292",
+	"Company": "qQuick",
+	"Address": {
+		"City": "Jarkhand",
+		"State": "India",
+		"Country": "",
+		"Pincode": 41010
+	}
+}
