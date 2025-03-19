@@ -1,0 +1,12 @@
+{
+	"Name": "Ronaldo",
+	"Age": 23,
+	"Contact": "22748292",
+	"Company": "Google",
+	"Address": {
+		"City": "Kharghar",
+		"State": "Navi mumbai",
+		"Country": "India",
+		"Pincode": 410210
+	}
+}
