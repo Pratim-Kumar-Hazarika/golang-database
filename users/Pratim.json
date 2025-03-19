@@ -1,0 +1,12 @@
+{
+	"Name": "Pratim",
+	"Age": 45,
+	"Contact": "2903748292",
+	"Company": "Meta",
+	"Address": {
+		"City": "California",
+		"State": "Texas",
+		"Country": "US",
+		"Pincode": 41010
+	}
+}
